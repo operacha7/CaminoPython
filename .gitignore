@@ -5,3 +5,5 @@ xcuserdata/
 .buid/
 Pods/
 Carthage/
+CaminoPython/Resources/Databases/*.sqlite-wal
+CaminoPython/Resources/Databases/*.sqlite-shm
